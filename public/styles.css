@@ -1,0 +1,55 @@
+body{
+  margin: 0;
+}
+p{
+  margin: 0;
+}
+h4{
+  margin-top: 0px;
+}
+img{
+  width: 100%;
+}
+.topNavbar{
+  height: 40px;
+  width: 100%;
+  background-color: #1E83E3;
+}
+
+.id{
+  margin-top: -20px;
+  padding-left: 1450px;
+  color: #ECDEF0;
+}
+.heading{
+  color: #ECDEF0;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+
+.topnav {
+  background-color: #529FE8;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #13477A;
+  color: white;
+}
